@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
 import (
+	"fmt"
 	"net/http"
 	"io/ioutil"
 )
